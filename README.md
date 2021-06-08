@@ -35,4 +35,4 @@
 
 
 
-<강릉원주대학교>(https://www.gwnu.ac.kr/sites/kor/newIndex.html)
+[강릉원주대학교](https://www.gwnu.ac.kr/sites/kor/newIndex.html)
